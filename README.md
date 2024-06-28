@@ -5,4 +5,11 @@ Claude 3.5 Sonnet is now available for free on Claude.ai and the Claude iOS app,
 
 ### Chat with Claude 3 Sonnet 
 - https://claude.ai/new
+
+### Claude 3.5 Sonnet for vision
+- https://youtu.be/dhxrHvgXpSM?feature=shared
+
+### 15 INSANE Use Cases for NEW Claude Sonnet 3.5! (Outperforms GPT-4o)
+- https://youtu.be/wBJZQt23J7M?feature=shared
+
   
